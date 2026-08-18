@@ -1,0 +1,5 @@
+{
+  "name": "AI Powered Fashion Outfit Recommendation System",
+  "description": "AI-powered fashion outfit recommendation system.",
+  "requestFramePermissions": ["camera"]
+}
